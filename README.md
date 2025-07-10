@@ -162,12 +162,9 @@ pmid,title,first_author,gender,topic,year,journal,power_words_count
 If you use this tool in your research, please cite:
 
 ```
-[Your Paper Citation Here]
-Title: A Decade of Plastic Surgery Research Through the Lens of Code: Gender, Subspecialty Gaps and Power Words
-Authors: [Author List]
-Journal: [Journal Name]
-DOI: [DOI]
-```
+https://doi.org/10.5281/zenodo.15849698
+
+A paper is in the works that can/will need to be cited too!
 
 ## Contributing
 
